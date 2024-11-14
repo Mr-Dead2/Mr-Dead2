@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI, i am deda. I am from Latvia and i am an enthusiast in python and C#.<br>
+HI, i am dead/deda. I am from Latvia and i am an enthusiast in python and C#.<br>
 
 
 # 💻 Tech Stack:
